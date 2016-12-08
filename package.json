@@ -1,0 +1,28 @@
+{
+  "name": "learning-grunt",
+  "version": "1.0.0",
+  "description": "My first attempt at learning how to utilize grunt.",
+  "main": "index.html",
+  "dependencies": {
+    "grunt": "^1.0.1"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^1.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustinMartinIsHere/GruntLearn.git"
+  },
+  "author": "Justin Martin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JustinMartinIsHere/GruntLearn/issues"
+  },
+  "homepage": "https://github.com/JustinMartinIsHere/GruntLearn#readme"
+}
